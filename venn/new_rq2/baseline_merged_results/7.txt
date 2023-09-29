@@ -1,0 +1,8 @@
+Mockito/35
+Closure/7
+Chart/22
+JxPath/16
+JacksonDatabind/70
+Math/92
+Jsoup/18
+Jsoup/8

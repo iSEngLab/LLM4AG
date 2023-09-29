@@ -1,0 +1,9 @@
+Math/102
+JacksonDatabind/12
+Chart/17
+Closure/100
+Cli/34
+Math/22
+Jsoup/52
+Time/1
+JxPath/9

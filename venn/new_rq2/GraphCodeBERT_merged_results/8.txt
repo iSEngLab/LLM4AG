@@ -1,0 +1,4 @@
+Time/1
+Jsoup/28
+JacksonDatabind/111
+Compress/15

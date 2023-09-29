@@ -1,0 +1,4 @@
+Compress/6
+JxPath/9
+Closure/100
+JxPath/20

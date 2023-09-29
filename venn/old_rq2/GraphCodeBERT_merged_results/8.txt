@@ -1,0 +1,8 @@
+Compress/9
+Cli/31
+Mockito/35
+Compress/15
+Jsoup/3
+Compress/42
+Jsoup/28
+Closure/100

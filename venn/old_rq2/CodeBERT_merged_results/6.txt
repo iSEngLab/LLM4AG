@@ -1,0 +1,9 @@
+Closure/28
+Jsoup/52
+Jsoup/3
+Closure/86
+Math/102
+Compress/42
+Compress/6
+Jsoup/41
+Math/22

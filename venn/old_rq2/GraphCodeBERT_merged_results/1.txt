@@ -1,0 +1,8 @@
+Chart/17
+JxPath/9
+Jsoup/3
+Time/1
+Math/92
+JacksonDatabind/12
+Jsoup/41
+Jsoup/52

@@ -1,0 +1,13 @@
+Jsoup/52
+Time/1
+Jsoup/3
+Math/62
+Compress/42
+Closure/100
+Csv/13
+Math/22
+Jsoup/41
+Jsoup/13
+JacksonDatabind/16
+JxPath/9
+Lang/60

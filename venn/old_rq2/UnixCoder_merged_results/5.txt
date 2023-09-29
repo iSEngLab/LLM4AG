@@ -1,0 +1,13 @@
+Closure/80
+Csv/13
+JxPath/7
+Math/63
+Math/102
+Jsoup/28
+Chart/18
+JxPath/9
+Jsoup/3
+JacksonDatabind/3
+Time/1
+JacksonDatabind/70
+Closure/100

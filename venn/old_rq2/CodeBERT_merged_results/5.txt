@@ -1,0 +1,14 @@
+Jsoup/52
+Time/1
+Mockito/35
+Jsoup/3
+JacksonDatabind/70
+Math/102
+Math/46
+Math/29
+Jsoup/28
+Closure/100
+Jsoup/41
+Math/22
+JxPath/9
+Math/96

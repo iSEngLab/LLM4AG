@@ -1,0 +1,9 @@
+Jsoup/52
+Time/1
+Jsoup/3
+Math/102
+Compress/4
+Compress/42
+Closure/100
+Csv/13
+Compress/6

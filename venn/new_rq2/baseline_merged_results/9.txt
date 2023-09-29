@@ -1,0 +1,4 @@
+Compress/6
+JxPath/16
+JxPath/12
+Cli/8
