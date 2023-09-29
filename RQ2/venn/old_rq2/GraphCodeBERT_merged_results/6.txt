@@ -1,0 +1,7 @@
+Math/63
+Chart/17
+Jsoup/3
+Closure/28
+Compress/6
+Jsoup/71
+Jsoup/41

@@ -1,8 +1,0 @@
-Mockito/35
-Closure/7
-Compress/6
-JxPath/16
-Math/92
-JacksonDatabind/16
-Closure/160
-JxPath/9

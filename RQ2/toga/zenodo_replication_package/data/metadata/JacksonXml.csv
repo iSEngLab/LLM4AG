@@ -1,0 +1,7 @@
+bug.id,package.name,dir.src.classes
+1,com.fasterxml.jackson.dataformat.xml,src/main/java
+2,com.fasterxml.jackson.dataformat.xml,src/main/java
+3,com.fasterxml.jackson.dataformat.xml,src/main/java
+4,com.fasterxml.jackson.dataformat.xml,src/main/java
+5,com.fasterxml.jackson.dataformat.xml,src/main/java
+6,com.fasterxml.jackson.dataformat.xml,src/main/java

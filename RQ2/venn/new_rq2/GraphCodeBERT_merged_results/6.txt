@@ -1,0 +1,7 @@
+Chart/17
+Math/92
+Math/72
+Time/1
+Jsoup/28
+JacksonDatabind/111
+Math/22

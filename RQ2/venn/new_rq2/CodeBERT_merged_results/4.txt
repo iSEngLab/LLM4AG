@@ -1,0 +1,5 @@
+JxPath/7
+Chart/17
+Compress/42
+Math/22
+JacksonDatabind/16

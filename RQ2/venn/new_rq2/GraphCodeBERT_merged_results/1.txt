@@ -1,0 +1,5 @@
+Chart/17
+Mockito/35
+JxPath/9
+Compress/42
+JacksonDatabind/111

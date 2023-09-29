@@ -1,6 +1,0 @@
-Mockito/35
-Math/46
-JacksonDatabind/111
-Chart/17
-Math/22
-Time/1

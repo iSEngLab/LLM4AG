@@ -1,0 +1,9 @@
+Math/102
+Closure/100
+JxPath/7
+Compress/42
+JacksonDatabind/111
+Math/22
+Math/47
+Compress/34
+JxPath/9

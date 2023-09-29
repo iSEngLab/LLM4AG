@@ -1,8 +1,0 @@
-JacksonDatabind/12
-JacksonDatabind/111
-JacksonDatabind/3
-Math/62
-Time/1
-JxPath/6
-Cli/29
-Chart/18

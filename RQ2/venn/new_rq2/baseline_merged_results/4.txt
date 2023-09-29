@@ -1,0 +1,10 @@
+Compress/6
+Chart/17
+Chart/22
+Jsoup/28
+Cli/8
+JxPath/16
+Math/92
+Jsoup/41
+JxPath/12
+JacksonDatabind/16

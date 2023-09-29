@@ -1,7 +1,0 @@
-Chart/22
-Math/62
-JxPath/16
-JacksonDatabind/16
-JxPath/6
-Closure/100
-JxPath/12

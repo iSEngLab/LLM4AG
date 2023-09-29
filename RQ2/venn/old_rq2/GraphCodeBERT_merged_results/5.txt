@@ -1,0 +1,7 @@
+Chart/18
+Math/63
+Math/96
+Math/22
+JacksonDatabind/3
+Jsoup/28
+Closure/100

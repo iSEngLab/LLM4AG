@@ -1,5 +1,0 @@
-JacksonDatabind/12
-JxPath/20
-JxPath/9
-Time/1
-Chart/18

@@ -1,0 +1,14 @@
+Math/102
+JxPath/20
+JacksonDatabind/3
+Closure/100
+Math/29
+Math/22
+Jsoup/52
+JxPath/8
+Time/1
+Math/63
+Jsoup/3
+JxPath/7
+JxPath/9
+JacksonDatabind/111

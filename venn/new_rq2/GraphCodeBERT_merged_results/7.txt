@@ -1,9 +1,0 @@
-Compress/6
-Mockito/35
-Math/92
-Chart/22
-Closure/100
-Time/1
-Compress/42
-JacksonDatabind/111
-Math/22

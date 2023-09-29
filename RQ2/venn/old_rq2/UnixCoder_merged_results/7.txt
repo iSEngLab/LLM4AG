@@ -1,0 +1,11 @@
+Csv/13
+Compress/6
+Math/63
+Jsoup/28
+Jsoup/52
+JxPath/9
+Jsoup/3
+Time/1
+Chart/18
+JacksonDatabind/12
+Compress/42
