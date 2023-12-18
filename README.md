@@ -1,4 +1,4 @@
-# LLM4Assertion
+# EASE Replication Package
 
 This repository contains the code needed to reproduce the experiments.
 
@@ -20,5 +20,18 @@ Each sub-folder contains a file named run.py. It contains the shell commands use
 
 ```
 cd /the entry you want
-python run.py
+python runrq1.py
+```
+
+## About the Implement of EASE
+
+First please follow Lou et, al. to set up the IR code. 
+
+First, run IR.py in RQ3/IR, it should generate a json file that contains the IR results. Then, run the data.py in RQ3/IR to transform the IR result into the data format that EASE needs.
+
+After acquiring the necessary data, Please turn to RQ3/ori and run the following commands:
+
+```
+cd /the entry you want
+python runrq3.py
 ```
