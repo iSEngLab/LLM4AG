@@ -1,5 +1,0 @@
-Compress/47
-Math/62
-Codec/6
-JxPath/9
-Chart/18

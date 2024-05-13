@@ -1,5 +1,0 @@
-JxPath/9
-Cli/29
-JacksonDatabind/111
-Math/22
-Time/1

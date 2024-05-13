@@ -1,9 +1,0 @@
-Jsoup/52
-Time/1
-Jsoup/3
-Closure/160
-Closure/80
-Compress/4
-Closure/100
-JxPath/9
-Closure/7

@@ -1,6 +1,0 @@
-Mockito/35
-Closure/7
-Compress/6
-Cli/8
-Compress/15
-JxPath/9

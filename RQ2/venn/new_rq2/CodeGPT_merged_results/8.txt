@@ -1,9 +1,0 @@
-Math/102
-Chart/18
-JacksonDatabind/70
-Closure/100
-JacksonDatabind/111
-Compress/6
-Math/22
-Compress/34
-JxPath/9

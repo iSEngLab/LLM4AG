@@ -1,6 +1,0 @@
-JacksonDatabind/12
-JacksonDatabind/111
-Closure/46
-JxPath/9
-Cli/29
-Chart/18

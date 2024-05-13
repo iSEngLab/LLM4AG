@@ -1,8 +1,0 @@
-JacksonDatabind/16
-Chart/18
-Mockito/35
-JxPath/9
-Compress/42
-Compress/6
-Time/1
-Jsoup/41

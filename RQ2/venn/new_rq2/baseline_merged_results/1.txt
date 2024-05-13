@@ -1,4 +1,0 @@
-Chart/17
-Math/92
-JxPath/12
-JxPath/9

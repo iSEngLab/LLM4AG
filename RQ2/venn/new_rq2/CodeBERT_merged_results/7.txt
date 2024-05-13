@@ -1,7 +1,0 @@
-JxPath/7
-JacksonDatabind/111
-Math/102
-Chart/22
-Compress/42
-Math/22
-Time/1

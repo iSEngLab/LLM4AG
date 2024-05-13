@@ -1,4 +1,0 @@
-JxPath/9
-JacksonDatabind/12
-Closure/100
-Time/1

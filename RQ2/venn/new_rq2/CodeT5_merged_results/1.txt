@@ -1,5 +1,0 @@
-Chart/18
-Chart/17
-Time/1
-Closure/100
-JxPath/9

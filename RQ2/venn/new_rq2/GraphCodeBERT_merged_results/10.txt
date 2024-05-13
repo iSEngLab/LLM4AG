@@ -1,9 +1,0 @@
-Math/92
-JxPath/9
-Closure/100
-JacksonDatabind/16
-JacksonCore/6
-Time/1
-Math/62
-JacksonDatabind/111
-Math/22

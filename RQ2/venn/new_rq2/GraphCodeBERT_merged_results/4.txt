@@ -1,9 +1,0 @@
-Chart/17
-Closure/80
-Math/92
-Jsoup/28
-Time/1
-Closure/28
-JacksonDatabind/12
-Compress/42
-Math/22

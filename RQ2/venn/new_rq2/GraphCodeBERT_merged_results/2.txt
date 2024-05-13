@@ -1,9 +1,0 @@
-Closure/80
-Math/92
-JxPath/9
-Jsoup/28
-JacksonDatabind/111
-Codec/6
-Compress/42
-Math/62
-Math/22

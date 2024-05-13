@@ -1,5 +1,0 @@
-Codec/2
-JacksonDatabind/111
-Compress/42
-Math/22
-Time/1
