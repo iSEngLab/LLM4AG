@@ -154,3 +154,7 @@ python runbeam.py
 ### D2&D3
 
 In these two discussions, we discussed the relationship between inference accuracy and assertion type in D2 and the relationship between inference accuracy and focal-test&assertion length in D3. In these two folders, we provided the data processing script.
+
+### D4
+
+In this discussion, we fine-tuned `CodeT5` and `CodeLlama` on `Atlas` dataset. In the folder D1, we provide the script to fine-tune `CodeT5`, and in the folder D4, we provide the script to fine-tune `CodeLlama`.
